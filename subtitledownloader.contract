@@ -1,0 +1,7 @@
+[Contractor Entry]
+Name=Download subtitle
+Icon=info
+Description=Download subtitles from web
+MimeType=video
+Exec=python3 /home/paulo/.local/bin/subtitledownloader.py %U
+Gettext-Domain=pantheon-files
